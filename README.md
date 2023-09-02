@@ -16,16 +16,16 @@ A simple command-line student management system implemented in C++. This program
 ## Getting Started
 Follow the instructions below to set up and run the program on your local machine.
 
-### Prerequisites
+## Prerequisites
 
 - C++ compiler (e.g., g++)
 - C++ standard library
   
-### Compile and Run
+## Compile and Run
 ```bash
 g++ student_management.cpp -o student_management
 ```
-### Run the executable:
+## Run the executable:
 ```bash
    ./student_management
 ```
