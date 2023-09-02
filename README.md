@@ -43,7 +43,7 @@ g++ student_management.cpp -o student_management
 - **Delete Student Record**: Remove a student's record from the system.
 - **Exit**: Quit the program.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please follow the standard GitHub flow:
 
