@@ -22,18 +22,15 @@ Follow the instructions below to set up and run the program on your local machin
 - C++ standard library
   
 ### Compile and Run
-1. Compile the code:
-    ```bash
+```bash
 g++ student_management.cpp -o student_management
-   ```
-
-
-4. Run the executable:
-
+```
+### Run the executable:
+```bash
    ./student_management
-
+```
 ## Menu Options
-```markdown
+
 
 - Select a menu option by entering the corresponding number.
 - Follow the prompts to perform various operations on student records.
@@ -46,9 +43,7 @@ g++ student_management.cpp -o student_management
 - **Delete Student Record**: Remove a student's record from the system.
 - **Exit**: Quit the program.
 
-
-
-## Contributing
+### Contributing
 
 Contributions are welcome! Please follow the standard GitHub flow:
 
