@@ -1,48 +1,87 @@
-# STUDENT_MANAGEMENT_SYSTEM
-# Student Management System
+# <p align="center">
+# <img src="https://mintbook.com/assetsNew/img/university.gif">
+# </p>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1375936/screenshots/7128890/media/5fcc028efb1f50a1c489ba5dac46e415.gif" alt="Welcome GIF">
+</p>
 
-A simple command-line student management system implemented in C++. This program allows users to perform various operations such as adding, viewing, modifying, searching, and deleting student records.
+A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
 
 ## Features
 
-- Add student records
-- View student records
-- Modify student records
-- Search for a student by roll number
-- Delete student records
-
-![Student Management System]((https://www.euthissa.in/assets/img/portfolio/schoolmanage.gif))
+- Create and manage bank accounts
+- Check account balances
+- Deposit funds into accounts
+- Withdraw funds from accounts
+- Close accounts
+- View a list of all accounts
 
 ## Getting Started
 
-Follow the instructions below to set up and run the program on your local machine.
-
 ### Prerequisites
 
-- C++ compiler (e.g., g++)
-- C++ standard library
+- g++ compiler: Install using `sudo apt install g++`
 
-### How to Compile
+### Compile and Run
 
-```bash
-g++ student_management.cpp -o student_management
+1. Clone the repository to your local machine:
 
- Continue to explain how to use the program and incorporate images where relevant:
+   ```bash
+   git clone https://github.com/TechTrekker25/Banking_system.git
+   ```
 
-```markdown
-### USAGE
+2. Navigate to the repository directory:
 
-- Select a menu option by entering the corresponding number.
-- Follow the prompts to perform various operations on student records.
+   ```bash
+   cd banking-system
+   ```
 
-![Menu Example](images/menu.png)
+3. Compile the code:
 
-## Menu Options
+   ```bash
+   g++ -o banking_system main.cpp
+   ```
 
-- **Add Student Record**: Allows you to add a new student record to the system.
-- **View Student Records**: Displays a list of all student records.
-- **Modify Student Record**: Lets you update an existing student's information.
-- **Search Student Record**: Search for a student by their roll number.
-- **Delete Student Record**: Remove a student's record from the system.
-- **Exit**: Quit the program.
+4. Run the executable:
 
+   ```bash
+   ./banking_system
+   ```
+
+## Usage
+
+1. Choose an option from the menu:
+   - Open an account
+   - Check balance
+   - Deposit
+   - Withdraw
+   - Close account
+   - Show all accounts
+   - Quit
+
+2. Follow the prompts to perform the desired actions.
+
+## Contributing
+
+Contributions are welcome! Please follow the standard GitHub flow:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit and push your changes to your fork
+5. Create a pull request to the main repository
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+YOGESH T
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/yogesh-t-5424211bb/)
+[<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:higgsboson25022003@gmail.com)
+
+Project Link: [https://github.com/TechTrekker25/Banking_system](https://github.com/TechTrekker25/Banking_system)
