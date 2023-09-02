@@ -62,7 +62,7 @@ Contributions are welcome! Please follow the standard GitHub flow:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+This project is licensed under the Creative Commons Zero v1.0 Universal. See [LICENSE](LICENSE) for more details.
 
 ## Contact
 
