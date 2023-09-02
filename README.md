@@ -30,9 +30,7 @@ g++ student_management.cpp -o student_management
 
 4. Run the executable:
 
-   ```bash
    ./student_management
-   ```
 
 ## Menu Options
 ```markdown
