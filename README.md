@@ -2,7 +2,7 @@
 # <img src="https://mintbook.com/assetsNew/img/university.gif">
 # </p>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1375936/screenshots/7128890/media/5fcc028efb1f50a1c489ba5dac46e415.gif" alt="Welcome GIF">
+  <img src="https://mintbook.com/assetsNew/img/university.gif" alt="Student Management">
 </p>
 
 A simple banking system implementation in C++ that allows users to open accounts, check balances, deposit, withdraw, and manage accounts.
