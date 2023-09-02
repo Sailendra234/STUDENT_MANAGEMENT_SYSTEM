@@ -70,4 +70,4 @@ For any questions or feedback,contact:
 sailendranssk234@gmail.com
 
 
-Project Link: [https://github.com/TechTrekker25/Banking_system](https://github.com/TechTrekker25/Banking_system)
+Project Link: [https://github.com/Sailendra234/STUDENT_MANAGEMENT_SYSTEM]
