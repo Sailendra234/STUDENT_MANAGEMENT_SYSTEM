@@ -11,7 +11,7 @@ A simple command-line student management system implemented in C++. This program
 - Search for a student by roll number
 - Delete student records
 
-![Student Management System]((https://mintbook.com/assetsNew/img/university.gif))
+![Student Management System]((https://www.euthissa.in/assets/img/portfolio/schoolmanage.gif))
 
 ## Getting Started
 
